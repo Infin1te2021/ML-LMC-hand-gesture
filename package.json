@@ -1,0 +1,16 @@
+{
+  "name": "csvappendix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cylon": "^1.3.0",
+    "cylon-leapmotion": "^0.21.0",
+    "leapjs": "^1.1.1"
+  }
+}
